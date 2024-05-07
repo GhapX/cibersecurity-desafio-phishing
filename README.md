@@ -18,7 +18,7 @@
 
 ### Aplicação
 
-- Assim que realizar a aplicação e a vítima acessar o sistema irá dar o seguinte aviso.
+- Assim que realizar a aplicação a vítima deverá acessar o sistema, e em seguida irá aparecer o seguinte aviso.
 
 ![Alt text](./invasao.png "Optional title")
 
